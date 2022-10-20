@@ -1,5 +1,2 @@
-s="*"
-for i in range(1,11):
-    print(s*i)
-for i in range(11,0,-1):
-    print(s*i)
+a=(11,22,33,44,22,33,56,89,56)
+print(a[0:6:])
